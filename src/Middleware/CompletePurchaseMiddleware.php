@@ -15,13 +15,14 @@ use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
 
 /**
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.1.0
  */
 class CompletePurchaseMiddleware
 {
     /**
-     * @param \Illuminate\Http\Request $request
-     * @param \Closure $next
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
      * @return mixed
      */
     public function handle($request, Closure $next, string $gateway)

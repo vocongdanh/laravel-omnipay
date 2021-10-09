@@ -19,6 +19,7 @@ use Omnipay\VNPay\Gateway as VNPayGateway;
  * @method static \Omnipay\VNPay\Message\RefundRequest refund(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class Gateway extends Facade

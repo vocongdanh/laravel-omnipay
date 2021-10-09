@@ -13,6 +13,7 @@ use Omnipay\MoMo\AllInOneGateway as MoMoGateway;
  * @method static \Omnipay\MoMo\Message\AllInOne\QueryRefundRequest queryRefund(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class AllInOneGateway extends Facade

@@ -18,6 +18,7 @@ use Omnipay\OnePay\DomesticGateway as OnePayGateway;
  * @method static \Omnipay\OnePay\Message\IncomingRequest notification(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class DomesticGateway extends Facade

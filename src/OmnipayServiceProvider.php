@@ -12,6 +12,7 @@ use Illuminate\Support\ServiceProvider;
 
 /**
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class OmnipayServiceProvider extends ServiceProvider
