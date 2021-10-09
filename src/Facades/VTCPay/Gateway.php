@@ -17,6 +17,7 @@ use Omnipay\VTCPay\Gateway as VTCPayGateway;
  * @method static \Omnipay\VTCPay\Message\NotificationRequest notification(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class Gateway extends Facade

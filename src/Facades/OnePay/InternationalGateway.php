@@ -18,6 +18,7 @@ use Omnipay\OnePay\InternationalGateway as OnePayGateway;
  * @method static \Omnipay\OnePay\Message\IncomingRequest notification(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class InternationalGateway extends Facade

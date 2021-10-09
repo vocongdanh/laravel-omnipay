@@ -18,6 +18,7 @@ use Omnipay\MoMo\QRCodeGateway as MoMoGateway;
  * @method static \Omnipay\MoMo\Message\PayRefundRequest queryRefund(array $options = [])
  *
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class QRCodeGateway extends Facade

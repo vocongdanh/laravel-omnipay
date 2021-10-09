@@ -16,6 +16,7 @@ use PHPViet\Laravel\Omnipay\Tests\TestCase;
 
 /**
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class CompletePurchaseMiddlewareTest extends TestCase

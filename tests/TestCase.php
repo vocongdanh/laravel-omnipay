@@ -14,6 +14,7 @@ use PHPViet\Laravel\Omnipay\OmnipayServiceProvider;
 
 /**
  * @author Vuong Minh <vuongxuongminh@gmail.com>
+ *
  * @since 1.0.0
  */
 class TestCase extends BaseTestCase
